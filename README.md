@@ -27,5 +27,5 @@ E-mail- way2mukesh@gmail.com
 
 
 License
-copyright @Newton school,2021
+copyright @Newton school,2021.
 
